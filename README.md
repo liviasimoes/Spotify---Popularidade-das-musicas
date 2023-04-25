@@ -7,11 +7,11 @@ Este é um conjunto de dados de faixas do Spotify abrangendo 125 diferentes gên
 O conjunto de dados contém 232,725 faixas de música do Spotify com 18 atributos de áudio e informações de popularidade. Os atributos de áudio incluem duração, tempo, energia, valência, volume, acústica, instrumentalidade, etc. Além disso, há informações sobre popularidade, como número de reproduções, número de seguidores do artista, etc.
 
 ## Objetivo do Projeto
-O objetivo deste projeto é prever a popularidade de músicas no Spotify com base em suas características de áudio usando Machine Learning. Para alcançar este objetivo, realizaremos as seguintes etapas:
+O objetivo deste projeto é prever a popularidade de músicas no Spotify com base em suas características de áudio usando Machine Learning. Para alcançar este objetivo, realizei as seguintes etapas:
 
-Realizar uma análise exploratória dos dados para compreender as características do conjunto de dados e identificar possíveis correlações entre as variáveis.
+Análise exploratória dos dados para compreender as características do conjunto de dados e identificar possíveis correlações entre as variáveis.
 
-Pré-processar os dados para tratar valores ausentes, remover dados desnecessários e transformar as variáveis em um formato adequado para o treinamento do modelo.
+Pré-processamento os dados para tratar valores ausentes, remover dados desnecessários e transformar as variáveis em um formato adequado para o treinamento do modelo.
 
 Treinar um modelo de Machine Learning, que nos permita prever a popularidade de uma música com base em suas características de áudio.
 
